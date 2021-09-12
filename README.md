@@ -1,3 +1,3 @@
 # Introduction To Testing React Applications 
 
-[YouTube Tutorial]https://youtu.be/bHvsXYziW1E)
+ YouTube Tutorial https://youtu.be/bHvsXYziW1E
